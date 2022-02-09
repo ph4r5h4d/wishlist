@@ -3,6 +3,7 @@ Here is the list of things I want it. This list is a personal tracker for what I
 I'd also welcome anyone who'd like to make me happy :)
 
 ## My Wishlist
+```markdown
 | What                                                             	| How                      	| Status                  	| Thanks to 	|
 |------------------------------------------------------------------	|--------------------------	|-------------------------	|-----------	|
 | Apple Pencil v2                                                  	| Amazon, ...              	| :white_check_mark:      	| Firouzeh  	|
@@ -12,6 +13,6 @@ I'd also welcome anyone who'd like to make me happy :)
 | Harry Potter - Complete 8-Movie Collection (4K Ultra HD Blu-ray) 	| Bol, Amazon              	| :ballot_box_with_check: 	|           	|
 | Middle Earth Collection (4K Ultra HD Blu-ray)                    	| Bol, Amazon, ...         	| :ballot_box_with_check: 	|           	|
 | The Complete Matrix Trilogy (4K Ultra HD Blu-ray)                	| Bol,...                  	| :ballot_box_with_check: 	|           	|
-
+```
 ## How
 You already know how to reach me!
