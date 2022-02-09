@@ -4,16 +4,16 @@ I'd also welcome anyone who'd like to make me happy :)
 
 ## My Wishlist
 
-| What                                                             	| How                      	| Status                  	| Thanks to 	|
+| What                                                             	| Where                    	| Status                  	| Thanks to 	|
 |------------------------------------------------------------------	|--------------------------	|-------------------------	|-----------	|
-| Apple Pencil v2                                                  	| Amazon, ...              	| :white_check_mark:      	| Firouzeh  	|
-| Elden Ring, Disk or Digital                                      	| US Gift card or PS5 disk 	| :ballot_box_with_check: 	|           	|
-| Horizon Forbidden West Digital                                   	| PSN US Gift card         	| :ballot_box_with_check: 	|           	|
-| De'Longhi Dedica Style EC685.M                                   	| Bol, Amazon,             	| :ballot_box_with_check: 	|           	|
-| Harry Potter - Complete 8-Movie Collection (4K Ultra HD Blu-ray) 	| Bol, Amazon              	| :ballot_box_with_check: 	|           	|
-| Middle Earth Collection (4K Ultra HD Blu-ray)                    	| Bol, Amazon, ...         	| :ballot_box_with_check: 	|           	|
-| The Complete Matrix Trilogy (4K Ultra HD Blu-ray)                	| Bol,...                  	| :ballot_box_with_check: 	|           	|
-| Ember Travel Mug 2                                             	| Coolblue                	| :ballot_box_with_check: 	|           	|
+| Apple Pencil v2                                                  	| Amazon, ...              	| ![yes](img/yep.png)     	| Firouzeh  	|
+| Elden Ring, Disk or Digital                                      	| US Gift card or PS5 disk 	| ![no](img/nee.png   ) 	|           	|
+| Horizon Forbidden West Digital                                   	| PSN US Gift card         	| ![no](img/nee.png   ) 	|           	|
+| De'Longhi Dedica Style EC685.M                                   	| Bol, Amazon,             	| ![no](img/nee.png   ) 	|           	|
+| Harry Potter - Complete 8-Movie Collection (4K Ultra HD Blu-ray) 	| Bol, Amazon              	| ![no](img/nee.png   ) 	|           	|
+| Middle Earth Collection (4K Ultra HD Blu-ray)                    	| Bol, Amazon, ...         	| ![no](img/nee.png   ) 	|           	|
+| The Complete Matrix Trilogy (4K Ultra HD Blu-ray)                	| Bol,...                  	| ![no](img/nee.png   ) 	|           	|
+| Ember Travel Mug 2                                             	| Coolblue                	| ![no](img/nee.png   ) 	|           	|
 
 ## How
 You already know how to reach me!
