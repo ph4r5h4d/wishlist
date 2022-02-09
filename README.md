@@ -1,4 +1,4 @@
-## Welcome to my wish list page
+## Welcome to Farshad's wish list page
 Here is the list of things I want it. This list is a personal tracker for what I'd like to have. 
 I'd also welcome anyone who'd like to make me happy :)
 
