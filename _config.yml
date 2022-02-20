@@ -1,6 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
 markdown: GFM
 google_analytics: G-XGVXNL7FMG
 url: "https://wishlist.ph4r5h4d.me"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
