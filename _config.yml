@@ -2,6 +2,7 @@ remote_theme: jekyll/minima
 markdown: GFM
 google_analytics: G-XGVXNL7FMG
 url: "https://wishlist.ph4r5h4d.me"
+description: The right place to make me happy
 plugins:
   - jekyll-remote-theme
 minima:
