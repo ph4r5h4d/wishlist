@@ -5,6 +5,7 @@ url: "https://wishlist.ph4r5h4d.me"
 plugins:
   - jekyll-remote-theme
 minima:
+  skin: dark
   social_links:
     twitter: ph4r5h4d
     github: ph4r5h4d
