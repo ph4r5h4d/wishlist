@@ -9,7 +9,7 @@ I'd also welcome anyone who'd like to make me happy :)
 | Apple Pencil v2                                                  	| Amazon, ...               	| ![yes](img/yep.png)     	| Firouzeh  	|
 | Elden Ring, Disk or Digital                                      	| PSN US Gift card or PS5 disk 	| ![yes](img/yep.png   ) 	| Firouzeh  	|
 | Horizon Forbidden West Digital                                   	| PSN US Gift card          	| ![yes](img/yep.png   ) 	|  Myself	|
-| De'Longhi Dedica Style EC685.M                                   	| Bol, Amazon,              	| ![no](img/nee.png   ) 	|           	|
+|~~De'Longhi Dedica Style EC685.M~~                                  	| Bol, Amazon,              	| ![no](img/nee.png   ) 	| Myself :-D 	|
 | Harry Potter - Complete 8-Movie Collection (4K Ultra HD Blu-ray) 	| Bol, Amazon               	| ![no](img/nee.png   ) 	|           	|
 | Middle Earth Collection (4K Ultra HD Blu-ray)                    	| Bol, Amazon, ...          	| ![no](img/nee.png   ) 	|           	|
 | The Complete Matrix Trilogy (4K Ultra HD Blu-ray)                	| Bol,...                   	| ![no](img/nee.png   ) 	|           	|
